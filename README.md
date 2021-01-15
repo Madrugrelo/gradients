@@ -21,12 +21,6 @@ A collection of color gradients for developers
 
 Please see [CONTRIBUTING](https://github.com/Madrugrelo/gradients/blob/master/CONTRIBUTING.md) for details.
 
-## Support
-
-###### Security: If you discover any security related issues, please email madrugrelo@gmail.com instead of using the issue tracker.
-
-Thank you
-
 ## Credits
 
 - [Madrugrelo](https://github.com/Madrugrelo) (Developer)
