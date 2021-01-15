@@ -1,8 +1,8 @@
 # Gradients
 
 [![Maintainer](http://img.shields.io/badge/maintainer-@madrugrelo-blue.svg?style=flat-square)](https://twitter.com/madrugrelo)
-[![Source Code](http://img.shields.io/badge/source-gradients-blue.svg?style=flat-square)](https://github.com/Madrugrelo/gradients)
-[![Latest Version](https://img.shields.io/github/release/Madrugrelo/gradients.svg?style=flat-square)](https://github.com/Madrugrelo/gradients/releases)
+[![Source Code](http://img.shields.io/badge/source-gradients-blue.svg?style=flat-square)](https://github.com/madrugrelo/gradients)
+[![Latest Version](https://img.shields.io/github/release/madrugrelo/gradients.svg?style=flat-square)](https://github.com/madrugrelo/gradients/releases)
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE)
 
 ## About Gradients
@@ -19,13 +19,13 @@ A collection of color gradients for developers
 
 ## Contributing
 
-Please see [CONTRIBUTING](https://github.com/Madrugrelo/gradients/blob/master/CONTRIBUTING.md) for details.
+Please see [CONTRIBUTING](https://github.com/madrugrelo/gradients/blob/master/CONTRIBUTING.md) for details.
 
 ## Credits
 
-- [Madrugrelo](https://github.com/Madrugrelo) (Developer)
-- [All Credits](https://github.com/Ghosh/uiGradients) (uiGradients)
+- [Madrugrelo](https://github.com/madrugrelo) (Developer)
+- [uiGradients](https://github.com/Ghosh/uiGradients) (All Credits)
 
 ## License
 
-The MIT License (MIT). Please see [License File](https://github.com/Madrugrelo/gradients/blob/master/LICENSE) for more information.
+The MIT License (MIT). Please see [License File](https://github.com/madrugrelo/gradients/blob/master/LICENSE) for more information.
