@@ -28,3 +28,6 @@
     background-size: 200% auto;
     transition-duration: 0.5s;	
 }
+.gradient-hover:hover {
+	background-position: right center;
+}
