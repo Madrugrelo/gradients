@@ -1,33 +1,33 @@
 /*
- * Boots v1.0.0
- * Copyright 2021 Madrugrelo
- * The MIT License (MIT). Please see (https://github.com/Madrugrelo/gradients/blob/master/LICENSE) for more information.
- */
+* Boots v1.0.0
+* Copyright 2021 Madrugrelo
+* The MIT License (MIT). Please see (https://github.com/Madrugrelo/gradients/blob/master/LICENSE) for more information.
+*/
 
 /*RESET*/
 * {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    -moz-box-sizing: border-box;
-    -webkit-box-sizing: border-box;
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+-moz-box-sizing: border-box;
+-webkit-box-sizing: border-box;
 }
 
 /*CONTAINER*/
 .content,
 .container {
-    width: 1200px;
-    max-width: 98%;
-    margin: 0 auto;
+width: 1200px;
+max-width: 98%;
+margin: 0 auto;
 }
 .content {padding: 20px 0;}
 /*GRADIENTS*/
 .gradient {
-	height: 200px;
-	margin-top: 10px;
-    background-size: 200% auto;
-    transition-duration: 0.5s;	
+height: 200px;
+margin-top: 10px;
+background-size: 200% auto;
+transition-duration: 0.5s;	
 }
 .gradient-hover:hover {
-	background-position: right center;
+background-position: right center;
 }
