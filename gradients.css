@@ -69,7 +69,7 @@
 --gradient-colors-of-sky: linear-gradient(to right, #e0eafc, #cfdef3);
 --gradient-combi: linear-gradient(to right, #00416a, #799f0c, #ffe000);
 --gradient-compare-now: linear-gradient(to right, #ef3b36, #ffffff);
---gradient-coolblues: linear-gradient(to right, #6dd5ed, #2193b0);
+--gradient-cool-blues: linear-gradient(to right, #6dd5ed, #2193b0);
 --gradient-cool-brown: linear-gradient(to right, #603813, #b29f94);
 --gradient-cool-sky: linear-gradient(to right, #FFFFFF, #6DD5FA, #2980B9);
 --gradient-copper: linear-gradient(to right, #b79891, #94716b);
@@ -406,9 +406,9 @@
 .gradient-colors-of-sky {background-image: var(--gradient-colors-of-sky);}
 .gradient-combi {background-image: var(--gradient-combi);}
 .gradient-compare-now {background-image: var(--gradient-compare-now);}
+.gradient-cool-blues {background-image: var(--gradient-cool-blues);}
 .gradient-cool-brown {background-image: var(--gradient-cool-brown);}
 .gradient-cool-sky {background-image: var(--gradient-cool-sky);}
-.gradient-coolblues {background-image: var(--gradient-coolblues);}
 .gradient-copper {background-image: var(--gradient-copper);}
 .gradient-cosmic-fusion {background-image: var(--gradient-cosmic-fusion);}
 .gradient-crazy-orange-i {background-image: var(--gradient-crazy-orange-i);}
