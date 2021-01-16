@@ -21,13 +21,23 @@ max-width: 98%;
 margin: 0 auto;
 }
 .content {padding: 20px 0;}
+
 /*GRADIENTS*/
 .gradient {
 height: 200px;
 margin-top: 10px;
 background-size: 200% auto;
-transition-duration: 0.5s;	
+transition-duration: 0.5s;
+-webkit-border-radius: 5px;
+-moz-border-radius: 5px;
+border-radius: 5px;
+text-align: center;
+font-size: 2em;
+color:#000000; 
+text-shadow: 1px -1px #ccccccc;
+padding: 95px 0;
 }
 .gradient-hover:hover {
 background-position: right center;
+text-shadow: 1px -1px #a0a0a0;
 }
