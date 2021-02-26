@@ -10,7 +10,11 @@ A collection of color gradients for developers
 
 ## Installation
 ````html
+<!DOCTYPE html>
+<html lang="">
+<head>
 <link rel="stylesheet" href="gradients.css" />
+</head>
 ````
 ````html
 class="gradient-50-shades-of-grey gradient-hover"
