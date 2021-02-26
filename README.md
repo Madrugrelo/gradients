@@ -13,7 +13,7 @@ A collection of color gradients for developers
 <link rel="stylesheet" href="gradients.css" />
 ````
 ````html
-class="gradient-50-shades-of-grey gradient-hover"
+class="gradient-50-shades-of-grey"
 ````
 
 ## Documentation
